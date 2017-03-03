@@ -10,8 +10,10 @@
 
 ## Installation
 
-```sh
-$ npm install -g express-generator
+```
+$ git clone https://github.com/codecoaster/express-generator-pug/
+$ cd express-generator-pug
+$ npm install -g 
 ```
 
 ## Quick Start
